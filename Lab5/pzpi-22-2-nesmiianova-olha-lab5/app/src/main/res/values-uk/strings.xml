@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Відстеження Студентів</string>
+    
+    <!-- Authentication -->
+    <string name="login">Увійти</string>
+    <string name="email">Електронна пошта</string>
+    <string name="password">Пароль</string>
+    <string name="register">Зареєструватися</string>
+    <string name="logout">Вийти</string>
+    <string name="login_title">Вхід до системи</string>
+    <string name="dont_have_account">Немає акаунту? Зареєструйтесь</string>
+    
+    <!-- Navigation -->
+    <string name="dashboard">Панель</string>
+    <string name="grades">Оцінки</string>
+    <string name="schedule">Розклад</string>
+    <string name="iot">IoT</string>
+    <string name="profile">Профіль</string>
+    
+    <!-- Dashboard -->
+    <string name="recent_activity">Останні події</string>
+    <string name="average_grade">Середня оцінка</string>
+    <string name="attendance">Відвідуваність</string>
+    <string name="subjects">Предмети</string>
+    <string name="next_classes">Наступні заняття</string>
+    
+    <!-- Grades -->
+    <string name="overall_average">Загальний середній бал</string>
+    <string name="filter_by_subject">Фільтр за предметом</string>
+    <string name="all">Всі</string>
+    
+    <!-- Schedule -->
+    <string name="monday">Понеділок</string>
+    <string name="tuesday">Вівторок</string>
+    <string name="wednesday">Середа</string>
+    <string name="thursday">Четвер</string>
+    <string name="friday">П\'ятниця</string>
+    <string name="saturday">Субота</string>
+    <string name="sunday">Неділя</string>
+    
+    <!-- IoT -->
+    <string name="iot_monitoring">IoT Моніторинг</string>
+    <string name="sensor_overview">Огляд сенсорів</string>
+    <string name="classroom_environment">Аудиторне середовище</string>
+    <string name="attendance_tracking">Відстеження відвідуваності</string>
+    <string name="temperature">Температура</string>
+    <string name="humidity">Вологість</string>
+    <string name="occupancy">Присутність</string>
+    <string name="present">Присутні</string>
+    
+    <!-- Profile -->
+    <string name="settings">Налаштування</string>
+    <string name="notifications">Сповіщення</string>
+    <string name="language">Мова</string>
+    <string name="dark_mode">Темна тема</string>
+    <string name="privacy_security">Приватність та безпека</string>
+    <string name="about">Про застосунок</string>
+    <string name="help_support">Довідка та підтримка</string>
+    <string name="student">Студент</string>
+    <string name="teacher">Викладач</string>
+    <string name="group">Група</string>
+    <string name="year">Курс</string>
+    
+    <!-- Common -->
+    <string name="ok">ОК</string>
+    <string name="cancel">Скасувати</string>
+    <string name="loading">Завантаження...</string>
+    <string name="error">Помилка</string>
+    <string name="success">Успіх</string>
+    <string name="confirm">Підтвердити</string>
+    
+    <!-- Messages -->
+    <string name="logout_confirmation">Ви впевнені, що хочете вийти?</string>
+    <string name="no_data">Немає даних</string>
+    <string name="network_error">Помилка мережі</string>
+</resources> 
